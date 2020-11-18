@@ -40,4 +40,18 @@ public class MovieDB {
         }
     }
 
+    private static class Movie {
+
+        public Movie() {
+        }
+
+        private String getName() {
+            throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        }
+
+        private String getReleaseYear() {
+            throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        }
+    }
+
 }
