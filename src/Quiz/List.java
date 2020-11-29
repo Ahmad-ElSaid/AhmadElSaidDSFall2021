@@ -1,9 +1,9 @@
 
-package Assignment3;
+package Quiz;
 
 
 public interface List {
- 
+
     void add(Object newElement);
 
     Object get(int index);
@@ -15,5 +15,5 @@ public interface List {
     boolean remove(Object element);
 
     int size();
-    
+
 }
