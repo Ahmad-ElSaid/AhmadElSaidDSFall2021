@@ -1,5 +1,5 @@
 
-package Quiz;
+package Queque;
 
 
 public interface List {

@@ -1,5 +1,5 @@
 
-package Quiz;
+package Queque;
 
 import java.util.Arrays;
 
@@ -82,6 +82,14 @@ public class ArrayList implements List {
         }
         throw new RuntimeException("index not found");
       
+    }
+
+    void print() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    Object getElement(int i) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
 }

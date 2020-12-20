@@ -1,4 +1,4 @@
-package Quiz;
+package Queque;
 public class TestFunction {
     public static void main(String[] args) {
        LinkedList l1 = new LinkedList();
